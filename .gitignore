@@ -1,3 +1,12 @@
+# Extensionless files (executables)
+**
+!**.*
+!Makefile
+!LICENSE
+
+# Test input files
+test/
+
 # Object files
 *.o
 *.ko
